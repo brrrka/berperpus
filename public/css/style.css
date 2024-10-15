@@ -1,0 +1,111 @@
+.footer{
+    background-color: #badbcb;
+}
+
+.body{
+    background-color: #75b798;
+}
+
+.book-card {
+    height: 100%;
+}
+
+.book-card img {
+    object-fit: cover;
+    height: 450px !important;
+}
+
+.book-card .card-title {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.book-card .card-body {
+    padding: 10px;
+}
+
+.book-card .list-group-item {
+    padding: 5px;
+}
+
+.mx-auto {
+    width: 1300px
+}
+
+.card {
+    margin-top: 10px;
+}
+
+.navbar{
+    height: 70px;
+}
+
+.navbar-brand {
+    font-size: 30px; 
+}
+.nav-item {
+    font-size: 17px;
+}
+
+
+.form-signin {
+  max-width: 500px;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.form-floating {
+    margin-bottom: 5px;
+    background-color: #75b798;
+}
+
+.form-floating input {
+    background-color: #badbcb; 
+}
+.form-floating input {
+    color: #333; 
+}
+.form-floating input:focus {
+    background-color: #badbcb;
+}
+
+.invalid-feedback {
+    text-align: left;
+}
+
+.catalog.card-body{
+    background-color: #466D5B;
+}
+
+.card-body{
+    background-color: #badbcb;
+}
+
+.listing.list-group-item{
+    background-color: #69A488;
+    margin-top: -1px
+}
+
+.form-role.form-select{
+    background-color: #badbcb;
+}
